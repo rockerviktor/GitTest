@@ -6,7 +6,7 @@ namespace Calculations
 	{
 		public Calculator(ILog logger)
 		{
-			
+			// Just added some comment
 		}
 	}
 }
